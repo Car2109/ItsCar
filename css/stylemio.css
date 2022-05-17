@@ -1,0 +1,167 @@
+body {
+  background-image: url(https://mail.google.com/mail/u/0?ui=2&ik=09e767f9ed&attid=0.1&permmsgid=msg-a:r-7268745919349306012&th=180be1a5a362502e&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ96xKH0RRIoRUAZwl3uQkPthACpj_pU92xols-cpBo815u-FFNoD1f1rui4cZ-QJvbhqRLCNRQFm-biQsGwekspLXHqorF5VmV7OXx3XFva2qw9pYHpaKSND2o&disp=emb&realattid=180be1a474c5f21ac261);
+  background-attachment: fixed;
+scroll-behavior: smooth;  
+	margin: 0px; font-family: 'Manrope', sans-serif;
+}
+header { 
+	background-color: white; 
+	color: black;
+	text-align: center;
+	padding: 3% 3% 0% 3% 
+
+}
+
+.whitelink { text-decoration: none; font-kerning: 8% color:gray; }
+
+nav { margin: 0px auto; }
+
+nav ul { list-style-type: none; padding-left: 0px !important; }
+
+nav ul li {  
+	display: inline-block; 
+	padding: 10px;
+    text-transform: uppercase;
+}
+
+h1 {  text-align: center; font-family: 'Manrope', sans-serif;}
+h3 {text-align:left; 
+  font-family: 'Manrope', 
+  sans-serif;
+  font-size:1em;
+  font-weight:bold;
+}
+
+#homeimage { 
+align-items:  middle
+ margin:0%
+ width: 100%;
+ display: line block;
+  width: 90%;
+  }
+
+#homeicon {font-size: 2em }
+
+.active {
+  background-color: white;
+  color: #000;
+  border-bottom: 1px solid #b3b3b3;
+      }
+}
+
+li.active a {color: black;}
+
+.morepadding { padding:2em 20%; }
+
+.b-example-divider {
+  height: 3rem;
+  background-color: black ;
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em black, inset 0 .125em .5em black;
+}
+
+@media (min-width: 992px) {
+  .rounded-lg-3 { border-radius: .3rem; }
+}
+
+
+
+                    .bottoni {
+                    font-family: 'Manrope', 
+                    sans-serif;
+                      margin: auto;
+                      display: inline;
+                    }
+
+
+                    .btn1 {
+                      font-family: 'Manrope', sans-serif;
+                      background-color: white;
+                      border: none  
+                      color: white;
+                      cursor: pointer;
+                      font-size: 40px; 
+                    }
+                    .btn1:hover {
+                      background-color: RoyalBlue;
+                    }
+
+                    .btn2 {
+                      font-family: 'Manrope', sans-serif;
+                      background-color: white;
+                      border: none  
+                      color: white;
+                      cursor: pointer;
+                      font-size: 40px;
+                    }
+                    .btn2:hover {
+                      background-color: RoyalBlue;
+                    }
+
+
+
+.main { font-size:1em;
+  line-height:1.5em;
+  letter-spacing:0.05em;
+  }
+
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "#contatta";
+  display: table;
+  clear: both;
+}
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.bi {
+  vertical-align: -.125em;
+  fill: currentColor;
+}

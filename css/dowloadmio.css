@@ -1,0 +1,11 @@
+<div class="bg-dark text-secondary px-4 py-5 text-center">
+    <div class="py-5">
+      <h1 class="display-5 fw-bold text-white">Per conoscermi meglio:</h1>
+      <div class="col-lg-6 mx-auto">
+       
+          <button type="button" class="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold">Portfolio</button>
+          <button type="button" class="btn btn-outline-light btn-lg px-4">Curriculum</button>
+        </div>
+      </div>
+    </div>
+  </div>
